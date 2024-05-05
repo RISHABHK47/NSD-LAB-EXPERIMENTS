@@ -1,0 +1,13 @@
+#!/bin/bash
+echo " FILL UP "
+echo "Enter the Name:"
+read name
+echo "Enter the roll no:"
+read rollno
+echo "Enter the mark:"
+read mark
+echo "after printing"
+echo $name
+echo $rollno
+echo $mark
+
